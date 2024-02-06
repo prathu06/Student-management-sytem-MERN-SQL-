@@ -1,0 +1,11 @@
+*
+{
+font-size:2.5vw;
+font-family:Century;
+}
+body
+{
+background-image:url("kit.jpeg");
+}
+.nav{background-color:black;}
+.nav a{color:white;text-decoration:none;margin:5%;}
